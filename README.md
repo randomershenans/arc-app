@@ -1,67 +1,94 @@
-# SideQuest
+Arc
 
-## Product Vision
+Product Vision
 
-SideQuest transforms ordinary life into an extraordinary adventure. It reframes daily experiences as real-life side quests—spontaneous, soulful, chaotic, or transformative—with the ultimate goal of building a living, breathing archive of modern human lore. Through community storytelling, AI-generated quests, and map-based interactivity, SideQuest gives people permission to play again—without the need for wealth, status, or perfection.
+Arc transforms ordinary life into an extraordinary narrative. It reframes your day-to-day into a series of meaningful, wild, or ridiculous real-world side quests—each logged, shared, and remembered as modern human lore. Whether you’ve got €10 and a bike or $5k and a spiritual calling, Arc gives you a mission, a map, and a myth to live by.
 
-Life isn’t a main quest. It’s a series of side quests. Let’s live accordingly.
+This is not about the main quest. It’s about all the side quests that make life real. Arc helps you live with intention—and leave a legacy.
 
-## Product Goals
+Product Goals
 
-1. **Inspire Action:** Use AI to suggest compelling side quests based on time, money, distance, and personal vibe.
-2. **Build Lore:** Enable people to document and share their quests—creating a global, user-generated archive of human experience.
-3. **Create Community:** Connect questers through map-based tracking, shared interests, and real-time progress updates.
-4. **Support Monetization:** Let creators monetize their quests via AMA access, premium content, and patronage.
-5. **Make Life Playable:** Turn real-world exploration, growth, and chaos into a gamified system.
+Inspire Action: Use GPT to suggest compelling side quests based on time, money, location, and vibe.
 
-## Product Strategy
+Build Lore: Let people document and share their quests—creating a global, user-driven archive of life stories.
 
-* **Phase 1: MVP Launch**
+Create Connection: Help people find, follow, and interact with others on their own arcs through map-based tracking, AMAs, and content.
 
-  * GPT-powered quest generation
-  * Quest creation & lore logging
-  * Map view of quests in progress
-  * Follow/Join other quests
+Enable Monetization: Let questers earn from their journeys via AMA access, premium BTS content, and sponsorships.
 
-* **Phase 2: Creator Layer**
+Make Life Playable: Turn real-world chaos and curiosity into a gamified system that rewards living differently.
 
-  * AMA monetization system
-  * SideQuest+ premium subscription
-  * Creator BTS content tools
+Product Strategy
 
-* **Phase 3: Platform & Ecosystem**
+Phase 1: Core MVP
 
-  * Marketplace for quest-related services
-  * Legendary Quests & Community Challenges
-  * Branded faction quests (if values-aligned)
+GPT-powered quest generator
 
-## Monetization Strategy
+Create, join, and log quests
 
-* SideQuest+ Membership (premium features)
-* Ask-A-Quest AMA microtransactions
-* Behind-the-Quest content subscriptions
-* Sponsored Quests (brands that add to lore)
-* Merch & physical lore tokens (patches, shirts)
+Public quest feed
 
-## Tech Stack
+Live Map view
 
-* **Frontend:** React Native (Expo)
-* **Backend:** Bolt.dev (Supabase)
-* **AI Integration:** OpenAI (GPT-4o)
-* **Payments:** Stripe
+Phase 2: Creator Tools
 
-## Core User Flows
+AMA system for monetized Q&A
 
-* Onboarding & Quest Suggestion
-* Quest Creation & Updates
-* Quest Discovery (Map & Feed)
-* Follow/Join Quest
-* AMA & Paid Content
+Premium subscriptions for BTS content
 
-## Docs Overview
+Quester profiles with lore logs
 
-* [`/docs/requirements.md`](./docs/requirements.md) – Full product and feature requirements
-* [`/docs/monetization.md`](./docs/monetization.md) – Revenue models & mechanics
-* [`/docs/roadmap.md`](./docs/roadmap.md) – Timeline & feature release plan
-* [`/docs/gpt_prompts.md`](./docs/gpt_prompts.md) – AI prompt architecture
-* [`/docs/founder_manifesto.md`](./docs/founder_manifesto.md) – Philosophy & cultural foundations
+Phase 3: Ecosystem Expansion
+
+Community quests & global challenges
+
+Physical merch (Lore patches, Quest books)
+
+Sponsored legendary quests
+
+Monetization Strategy
+
+Arc+ Premium Membership (features, AI unlocks, enhanced visibility)
+
+AMA Question Access (micro-payments to ask questers questions)
+
+Behind-the-Quest Subscriptions (paid BTS stories, gear lists, tips)
+
+Quest Sponsorships (with lore-aligned brands)
+
+Merch & digital lore tokens
+
+Tech Stack
+
+Frontend: React Native (Expo)
+
+Backend: Bolt.dev (Supabase)
+
+AI Integration: OpenAI (GPT-4o)
+
+Payments: Stripe
+
+Core User Flows
+
+Onboarding: Create your Arc profile & preferences
+
+Quest Generation: Get mission ideas from GPT
+
+Quest Creation: Launch your quest & log it
+
+Discovery: Explore map/feed to follow or join others
+
+Interaction: Comment, ask questions, subscribe to BTS
+
+Docs Overview
+
+/docs/requirements.md – Feature breakdown & data structure
+
+/docs/monetization.md – Revenue models & flows
+
+/docs/roadmap.md – Feature timeline
+
+/docs/gpt_prompts.md – Prompts & AI behavior
+
+/docs/founder_manifesto.md – Philosophy & vision behind Arc
+
