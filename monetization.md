@@ -51,7 +51,26 @@ Let followers pay for deeper insights.
 
 ---
 
-## 4. One-Off Template Sales
+### 4. Quest Control (Arc+ Feature)
+Let followers vote on your next quest step or submit full quest ideas.
+
+**Free Users:**
+- Vote in public polls
+- View winning quests
+
+**Arc+ Users:**
+- Submit custom quests
+- Vote in exclusive polls
+- Be tagged in lore logs as the quest giver
+
+**Example:**
+> “@you voted I should hitchhike across Slovenia—so here we go.”  
+> “Arc+ members gave me 3 cursed side quests within this one. I hate all of you. Let’s do it.”
+
+This feature creates a dynamic feedback loop between creator and community, making users feel part of the journey while driving Arc+ conversions.
+
+
+## 5. One-Off Template Sales
 
 Templates = downloadable or viewable premium content:
 
@@ -68,7 +87,7 @@ Templates = downloadable or viewable premium content:
 
 ---
 
-## 5. Lore Merch
+## 6. Lore Merch
 
 Once the app has community traction:
 
@@ -81,7 +100,7 @@ Manufactured on-demand; Arc takes margin.
 
 ---
 
-## 6. Sponsored Quests
+## 7. Sponsored Quests
 
 Long-term optional revenue path:
 
