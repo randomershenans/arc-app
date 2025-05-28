@@ -70,25 +70,17 @@ This mechanic creates deep community engagement and a natural upgrade funnel—f
 
 ## Retention Strategy
 
-Push Notifications: "X just posted a new quest update" sent to followers (even non-subscribers)
+* Push Notifications: "X just posted a new quest update" sent to followers (even non-subscribers)
+* Leverage notifications to create FOMO and real-time excitement
+* Weekly “Lore Drops” from your followed users
+* Re-engagement push for abandoned quests
+* Bucket List nudges: “Others are doing this now!”
+* Monthly leaderboard/lore rank emails
+* Weekly “Lore Drops” from your followed users
+* Re-engagement push for abandoned quests
+* Bucket List nudges: “Others are doing this now!”
+* Monthly leaderboard/lore rank emails
 
-Leverage notifications to create FOMO and real-time excitement
-
-Weekly “Lore Drops” from your followed users
-
-Re-engagement push for abandoned quests
-
-Bucket List nudges: “Others are doing this now!”
-
-Monthly leaderboard/lore rank emails
-
-Weekly “Lore Drops” from your followed users
-
-Re-engagement push for abandoned quests
-
-Bucket List nudges: “Others are doing this now!”
-
-Monthly leaderboard/lore rank emails
 ---
 
 ## Viral Loops & Referrals
@@ -101,6 +93,52 @@ Monthly leaderboard/lore rank emails
 ---
 
 ## North Star Metrics
+
+* **Quest Starts / Day**
+* **Lore Logs / Quest**
+* **Arc+ Conversion %**
+* **Active Monetizing Creators**
+* **Referrals per User**
+
+---
+
+## Blind Spots & Strategic Considerations
+
+### 1. Getting the Right First Creators
+
+* Tone is everything. If the first 50–100 creators aren’t engaging, real, or chaotic enough, Arc risks feeling sterile.
+* Solution: Curate early quests or build a style guide with examples of “great lore.”
+
+### 2. Retaining Non-Creators
+
+* Not everyone will want to post. Make roles for lore seekers: those who react, follow, and curate.
+* Reward engagement with badges, titles, or arc tracking milestones.
+
+### 3. Dead Quests
+
+* Quests with no logs or abandoned arcs could clutter the experience.
+* Solution: Auto-archive after X days or feature them as “Lost Lore” for others to pick up or remix.
+
+### 4. Feedback Loops
+
+* Without likes or followers alone, some users may feel unseen.
+* Add small hits of validation: “Your quest was saved by 12 people.” or “3 users joined your arc.”
+
+### 5. Content Moderation & Safety
+
+* You’ll need systems to prevent harmful content, dangerous challenges, or IRL doxxing.
+* Ideas: community reports, AI filters, and flagged keyword alerts.
+
+### 6. Technical Architecture (Pending Doc)
+
+* Plan for: notification delivery (Firebase?), file uploads (Supabase/S3), AI rate limiting, and moderation tooling.
+
+### 7. Legal & Privacy
+
+* GDPR compliance, monetization tax handling, and child safety mechanisms all need coverage.
+* Potential doc: `risk_assessment.md` to scope out liabilities.
+
+---
 
 * **Quest Starts / Day**
 * **Lore Logs / Quest**
