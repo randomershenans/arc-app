@@ -70,11 +70,25 @@ This mechanic creates deep community engagement and a natural upgrade funnel—f
 
 ## Retention Strategy
 
-* Weekly “Lore Drops” from your followed users
-* Re-engagement push for abandoned quests
-* Bucket List nudges: “Others are doing this now!”
-* Monthly leaderboard/lore rank emails
+Push Notifications: "X just posted a new quest update" sent to followers (even non-subscribers)
 
+Leverage notifications to create FOMO and real-time excitement
+
+Weekly “Lore Drops” from your followed users
+
+Re-engagement push for abandoned quests
+
+Bucket List nudges: “Others are doing this now!”
+
+Monthly leaderboard/lore rank emails
+
+Weekly “Lore Drops” from your followed users
+
+Re-engagement push for abandoned quests
+
+Bucket List nudges: “Others are doing this now!”
+
+Monthly leaderboard/lore rank emails
 ---
 
 ## Viral Loops & Referrals
