@@ -56,6 +56,7 @@ This document outlines Arc’s financial modeling assumptions, revenue mix, and 
 
 | Users     | Arc+ (10%) | AMA (€2 avg) | BTS (5%) | Templates (10% Arc+) | Merch (2%) | Monthly Rev (€) | Annual Rev (€) |
 | --------- | ---------- | ------------ | -------- | -------------------- | ---------- | --------------- | -------------- |
+| 5,000     | €2,495     | €300         | €499     | €43                  | €83        | **€3,420**      | **€41,040**    |
 | 10,000    | €4,990     | €600         | €999     | €85                  | €167       | **€6,841**      | **€82,092**    |
 | 25,000    | €12,475    | €1,500       | €2,498   | €213                 | €417       | **€17,103**     | **€205,236**   |
 | 50,000    | €24,950    | €3,000       | €4,995   | €425                 | €833       | **€39,183**     | **€470,200**   |
@@ -72,13 +73,62 @@ Assumes:
 * Template: 10% of Arc+ @ €4.99
 * Merch: 2% of base buying monthly @ €10 avg
 
-\--------|--------|--------|------------------|-----------------|
-\| Arc+ Subscriptions | 10% | 5,000 | 24,950 | 299,400 |
-\| AMA Questions | 20% ask 1 q/mo avg €2 | 10,000 | 3,000 | 36,000 |
-\| BTS Followers | 5% | 2,500 | 9,975 | 119,700 |
-\| Template Sales | 10% of Arc+ buy €4.99 | 500 | 425 | 5,100 |
-\| Merch | \~2% of base x €10 | 1,000 | 833 | 10,000 |
-\| **Total** | — | — | **€39,183** | **€470,200** |
+|   |
+| - |
+
+---
+
+## Creator Revenue Examples
+
+### Example 1: Creator A (1,000 Followers)
+
+* **BTS Subscribers:** 100 users at €9.99 → €999/month
+
+  * Creator earns €849.15 (85%)
+  * Arc earns €149.85 (15%)
+* **Template Sales:** 10 templates @ €4.99 = €49.90/month
+
+  * Creator earns €42.42, Arc earns €7.48
+* **AMA Questions:** 20 questions @ €2 = €40/month
+
+  * Creator earns €34, Arc earns €6
+
+**Total Creator Earnings:** €925/month
+**Total Arc Earnings:** €163/month
+
+---
+
+### Example 2: Creator B (10,000 Followers)
+
+* **BTS Subscribers:** 1,000 users at €4.99 → €4,990/month
+
+  * Creator earns €4,241.50, Arc earns €748.50
+* **Template Sales:** 100 templates @ €9.99 = €999/month
+
+  * Creator earns €849.15, Arc earns €149.85
+* **AMA Questions:** 200 questions @ €3 = €600/month
+
+  * Creator earns €510, Arc earns €90
+
+**Total Creator Earnings:** €5,600/month
+**Total Arc Earnings:** €988/month
+
+---
+
+### Example 3: Creator C (100,000 Followers)
+
+* **BTS Subscribers:** 10,000 users at €4.99 → €49,900/month
+
+  * Creator earns €42,415, Arc earns €7,485
+* **Template Sales:** 1,000 templates @ €9.99 = €9,990/month
+
+  * Creator earns €8,491.50, Arc earns €1,498.50
+* **AMA Questions:** 2,000 questions @ €2 = €4,000/month
+
+  * Creator earns €3,400, Arc earns €600
+
+**Total Creator Earnings:** €54,306/month
+**Total Arc Earnings:** €9,583/month
 
 ---
 
