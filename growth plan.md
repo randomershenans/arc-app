@@ -140,12 +140,6 @@ This mechanic creates deep community engagement and a natural upgrade funnel—f
 
 ---
 
-* **Quest Starts / Day**
-* **Lore Logs / Quest**
-* **Arc+ Conversion %**
-* **Active Monetizing Creators**
-* **Referrals per User**
 
----
 
 This plan evolves as we learn. With every quest, Arc becomes smarter, richer, and more legendary.
